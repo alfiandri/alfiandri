@@ -1,8 +1,6 @@
 # 👋 Hi, I’m @alfiandri
 👀 I’m interested in Software Engineering and Product Management
 
-🌱 I’m currently learning Golang Microservices
-
 <!---
 
 - 📫 How to reach me ...
